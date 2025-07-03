@@ -94,7 +94,7 @@ h2 {
   background-color: #c62828;
 }
 .boton-igual {
-  background-color: #34a853;
+  background-color: #f7e700;
   color: white;
 }
 .boton-igual:active {
@@ -107,7 +107,7 @@ h2 {
   background-color: #f1f3f4;
   border-radius: 8px;
   color: #333;
-  max-height: 120px;
+  max-height: 150px;
   overflow-y: auto;
   transition: background-color 0.3s;
 }

@@ -125,7 +125,7 @@ body.modo-oscuro #display {
 
 body.modo-oscuro .boton {
   background-color: #444;
-  color: white;
+  color: #ff1801;
 }
 body.modo-oscuro .boton:active {
   background-color: #666;
